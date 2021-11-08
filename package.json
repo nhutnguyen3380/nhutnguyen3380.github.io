@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "live-server": "^1.2.1"
+  },
+  "name": "soda",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhutnguyen3380/Soda_Bootcamp.git"
+  },
+  "author": "Nhut Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhutnguyen3380/Soda_Bootcamp/issues"
+  },
+  "homepage": "https://github.com/nhutnguyen3380/Soda_Bootcamp#readme"
+}
