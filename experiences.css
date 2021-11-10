@@ -1,0 +1,12 @@
+#intro_page_title
+{
+    color:lightyellow
+}
+#back_button{
+    position:fixed;
+    top:5;
+    left:5;
+    height: 50px;
+    width: auto;
+
+}

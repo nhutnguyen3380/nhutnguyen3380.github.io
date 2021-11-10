@@ -1,0 +1,29 @@
+#intro_page_title {
+    color:darkgreen;
+}
+
+.card {
+    width: 40%;
+    border-radius: 5px;
+    background-color: white;
+    margin-top: 20px;
+}
+.spotify-image
+{
+    border-radius:5px 5px 0 0;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.spotify-info-container{
+    padding: 2px 16px;
+    font-size: 24px;
+}
+#back_button{
+    position:fixed;
+    top:5;
+    left:5;
+    height: 50px;
+    width: auto;
+
+}

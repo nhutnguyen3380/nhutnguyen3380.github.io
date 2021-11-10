@@ -89,3 +89,18 @@
     color: #40aaf2;
     border-color:black;
 }
+#spotifyapp_toggle
+{
+    border:4px solid #006400;
+}
+#spotifyapp_toggle:hover{
+    color:darkgreen;
+    border-color:black;
+}
+#token_toggle{
+    border:4px solid #ffffe0
+}
+#spotifyapp_toggle:hover{
+    color: #ffffe0;
+    border-color:black;
+}
